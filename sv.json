@@ -1,0 +1,39 @@
+{
+    "service": [
+      {
+        "name": "Ayo",
+        "model": "GLK",
+        "year": "2020",
+        "make": "Mercedez Benz",
+        "id": 2
+      },
+      {
+        "name": "Talabi Ayomide",
+        "model": "c330",
+        "year": "2021",
+        "make": "Benz",
+        "id": 3
+      },
+      {
+        "name": "Talabi Ayomide",
+        "model": "c330",
+        "year": "2021",
+        "make": "Benz",
+        "id": 4
+      },
+      {
+        "name": "mike",
+        "model": "Rx350",
+        "year": "2015",
+        "make": "Lexus",
+        "id": 5
+      },
+      {
+        "name": "ghj",
+        "model": "Rx350",
+        "year": "2021",
+        "make": "Benz",
+        "id": 6
+      }
+    ]
+  }
